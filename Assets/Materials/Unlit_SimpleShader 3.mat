@@ -7,18 +7,19 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Unlit_SimpleShader 3
+  m_Name: Unlit_SimpleShader 2
   m_Shader: {fileID: 4800000, guid: 228ec2d05d8f23b4594692bfd79c9c9f, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
-  m_DoubleSidedGI: 1
+  m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
   stringTagMap: {}
   disabledShaderPasses: []
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs: []
-    m_Floats: []
+    m_Floats:
+    - _Gloss: 0.16
     m_Colors:
-    - _Color: {r: 0.77041936, g: 0.7830189, b: 0.6463599, a: 1}
+    - _Color: {r: 0.14117646, g: 0.98039216, b: 0.21435142, a: 1}
